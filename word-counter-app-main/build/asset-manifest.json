@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wordcounter-task/static/css/main.48f4d879.css",
+    "main.js": "/wordcounter-task/static/js/main.27d3688f.js",
+    "index.html": "/wordcounter-task/index.html",
+    "main.48f4d879.css.map": "/wordcounter-task/static/css/main.48f4d879.css.map",
+    "main.27d3688f.js.map": "/wordcounter-task/static/js/main.27d3688f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48f4d879.css",
+    "static/js/main.27d3688f.js"
+  ]
+}
